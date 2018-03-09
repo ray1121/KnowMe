@@ -7,11 +7,5 @@ npm-debug.log
 # Nuxt build
 .nuxt
 
-# Nuxt generate
-dist
-
-# Backpack build
-build
-
 # mac trash
 .DS_Store

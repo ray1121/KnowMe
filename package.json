@@ -1,0 +1,36 @@
+{
+  "name": "knowme",
+  "version": "1.0.0",
+  "description": "this is a blog project based on Express & mysql",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ray1121/KnowMe.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "mysql"
+  ],
+  "author": "ray",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ray1121/KnowMe/issues"
+  },
+  "homepage": "https://github.com/ray1121/KnowMe#readme",
+  "dependencies": {
+    "config-lite": "^2.1.0",
+    "connect-flash": "^0.1.1",
+    "connect-memcached": "^0.2.0",
+    "connect-redis": "^3.3.3",
+    "cookie-session": "^2.0.0-beta.3",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "express-session": "^1.15.6",
+    "mysql": "^2.15.0",
+    "winston": "^2.4.0"
+  }
+}
